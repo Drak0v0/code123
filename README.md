@@ -48,3 +48,8 @@ contract MyToken {
     }
 }
 ```
+## Usage
+
+To use this contract, follow these steps:
+
+Deploy the contract to a compatible Ethereum development environment. Interact with the contract using an Ethereum wallet or a custom application. Call the mint function to create new tokens and increase the total supply. Call the burn function to destroy existing tokens and decrease the total supply, ensuring the balance of the "sender" is sufficient before performing the burn. Always exercise caution while using smart contracts on the Ethereum network and make sure to thoroughly test and verify the contract's functionality before deploying it in a production environment.
