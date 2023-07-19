@@ -25,6 +25,8 @@ Note: Ensure that the Solidity version used for compiling the contract is at lea
 ### Executing program
 
 ```
+// SPDX-License-Identifier: MIT
+
 pragma solidity 0.8.18;
 
   contract MyToken {
